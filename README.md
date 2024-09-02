@@ -11,7 +11,7 @@ which differ from nation to nation. Winemakers can make sure that their goods co
 and labelling by examining the chemical composition of their wine. 
 Overall, wine quality analysis is a crucial tool for the wine business to ensure consistency, improve quality, satisfy 
 consumer demand, and maintain legal compliance. 
-The research question we have chosen for this coursework is to analyse the quality of wine which is dependent on the 
+The research question we have chosen for this project is to analyse the quality of wine which is dependent on the 
 number of compounds present in the wine. “What relationship exists between the chemical composition of wine—
  including its density, pH, sulphates, alcohol, chlorides, free sulphur dioxide, total sulphur dioxide, fixed acidity, volatile 
 acidity, citric acid, residual sugar, and chlorides—and how wine experts or consumers can perceive its quality?” 
